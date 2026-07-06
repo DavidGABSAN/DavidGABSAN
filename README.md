@@ -1,12 +1,12 @@
 # ¡Hola! Soy David 👋
 
-Soy un desarrollador en formación (DAW) con un enfoque fuertemente analítico y orientado a la resolución de problemas. 
+Soy un desarrollador en formación (DAW) con un enfoque de fuerte compromiso, basado en el aprendizaje continuo y orientado a la resolución de problemas. 
 
 Actualmente busco una oportunidad para realizar mis **prácticas curriculares (500h a partir de septiembre)**, donde pueda aportar valor mientras sigo creciendo profesionalmente. Mi objetivo a largo plazo es el desarrollo de software full stack.
 
 ### 🚀 Sobre mí
 
-* 🎓 **Formación:** Acabo de finalizar el primer año de Desarrollo de Aplicaciones Web (DAW) con un rendimiento excelente, destacando especialmente en las áreas de **Programación (Java/Lógica)** y **Bases de Datos (Oracle SQL)**.
+* 🎓 **Formación:** Acabo de finalizar el primer año de Desarrollo de Aplicaciones Web (DAW) con un rendimiento excelente, destacando especialmente en las áreas de **Programación (Java/Python/Lógica)** y **Bases de Datos (Oracle SQL)**.
 * 🌱 **Aprendizaje actual:** Actualmente inmerso en el curso **Full Stack Open (Universidad de Helsinki)** y profundizando en JavaScript con *Eloquent JavaScript* y en React con *React and React Native*.
 * 🏗️ **Próximos pasos:** Comenzar el Grado en Ingeniería Informática en la UNED tras finalizar DAW para consolidar mi perfil como ingeniero.
 
