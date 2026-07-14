@@ -8,7 +8,7 @@ Actualmente busco una oportunidad para realizar mis **prácticas curriculares (5
 
 * 🎓 **Formación:** Acabo de finalizar el primer año de Desarrollo de Aplicaciones Web (DAW) con un rendimiento excelente, destacando especialmente en las áreas de **Programación (Java/Python/Lógica)** y **Bases de Datos (Oracle SQL)**.
 * 🌱 **Aprendizaje actual:** Actualmente inmerso en el curso **Full Stack Open (Universidad de Helsinki)** y profundizando en JavaScript con *Eloquent JavaScript* y en React con *React and React Native*.
-* 🏗️ **Próximos pasos:** Comenzar el Grado en Ingeniería Informática en la UNED tras finalizar DAW para consolidar mi perfil como ingeniero.
+
 
 ### 💻 Stack Tecnológico y Herramientas
 
